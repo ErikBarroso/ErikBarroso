@@ -124,11 +124,12 @@ Tenho mais de 2 anos de experiÃªncia como desenvolvedor full stack e estou no 5Â
 />
 <br/>
 <br/>
-<p>
+ <div align="left">
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBarroso&theme=tokyonight&layout=compact&custom_title=Most used languages&langs_count=9&hide_border=true&bg_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBarroso&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true" 
   />
-</p>
+ </div>
+
