@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho mais de 2 anos de experiência como desenvolvedor full stack e estou no 5º semestre de Engenharia de Software. Compartilho minha jornada na tecnologia no meu canal no YouTube "[DevErik.](https://www.youtube.com/@deverik.?sub_confirmation=1)" e no meu perfil no Instagram "[Erik Barroso](https://www.instagram.com/deverik_/)".
+Tenho mais de 2 anos de experiência como desenvolvedor full stack e estou no 6º semestre de Engenharia de Software. Compartilho minha jornada na tecnologia no meu canal no YouTube "[DevErik.](https://www.youtube.com/@deverik.?sub_confirmation=1)" e no meu perfil no Instagram "[Erik Barroso](https://www.instagram.com/deverik_/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@deverik.?sub_confirmation=1">
